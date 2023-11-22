@@ -1,6 +1,6 @@
 # Deep-link-testing
-<a href="https://google.com">Valid DApp link</a>
 <a href="novawallet://nova/open/dapp?url='https://azero.id/'">Valid DApp link</a>
+</p>
 <a href="novawallet://nova/open/dapp">Empty DApp link</a>
 <a href="novawallet://nova/open/dapp?url='https://github.com/'">Invalid DApp link</a>
 
